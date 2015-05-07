@@ -1,0 +1,24 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.ember-application {
+  margin: 20px;
+}
+
+.ember-list-view {
+  overflow: auto;
+  position: relative;
+  width: 100%;
+}
+
+.ember-list-item-view {
+  position: absolute;
+  font-size: 17px;
+  font-weight: 200;
+}
+
+#container .liquid-child {
+  width: 480px;
+  height: 550px;
+}
